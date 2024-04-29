@@ -6,14 +6,6 @@
     <li>
       <a href="#개요">개요</a>
     </li>
-    <li>
-      <a href="#내용">내용</a>
-    </li>
-    <li><a href="#구현-화면">구현 화면</a>
-      <ul>
-        <li><a href="#"></a></li>
-      </ul>
-    </li>
   </ol>
 </details>
 
@@ -28,18 +20,6 @@
 그 중 내가 맡은 부분은 시각화 프로그래밍으로 DiskView라는 프로그램을 보고 클론 코딩을 진행하였다.<br><br>
 ⌨️ 사용된 기술 스택<br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
----
-
-# 내용
-**기능**
-
----
-
-# 구현 화면
-<h3 id=></h3>
-
-**구현 기능**
 
 ---
 
